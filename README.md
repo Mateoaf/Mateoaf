@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mateoaf
-- 👀 I’m interested in Java and C++
-- 🌱 I’m currently learning Java, C++, Spring Boot and Flutter
+- 👋 Hola, soy Antonio Mateos 
+- 👀 Soy desarrollador Flutter/Dart y tengo conocimientos en otros lenguajes como Java o C++
+- 🌱 Acceso a mi linkedin https://www.linkedin.com/in/antonio-mateos-fernandez-b31024356?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 
 
